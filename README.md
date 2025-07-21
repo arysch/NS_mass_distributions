@@ -24,4 +24,4 @@ numpy \
 scipy \
 corner \
 pandas \
-seaborn \
+seaborn 
