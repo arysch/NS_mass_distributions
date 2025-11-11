@@ -1,6 +1,6 @@
 # NS_mass_distributions
 
-This notebook accompanies the publication: LINK and INFO. If you use this work in your own research, please cite CITATION.
+This notebook accompanies the publication: LINK and INFO. If you use this work in your own research, please cite the article: https://arxiv.org/abs/2511.07393.
 
 # Overview
 This project performs a statistical comparison of neutron star mass distributions between two populations:
